@@ -1,0 +1,14 @@
+ > git rev-parse --is-inside-work-tree # timeout=10
+Fetching changes from the remote Git repository
+ > git config remote.origin.url https://github.com/sandeep078/jenkins-server.git # timeout=10
+Fetching upstream changes from https://github.com/sandeep078/jenkins-server.git
+ > git --version # timeout=10
+using GIT_ASKPASS to set credentials 
+ > git fetch --tags --progress https://github.com/sandeep078/jenkins-server.git +refs/heads/*:refs/remotes/origin/*
+ > git rev-parse refs/remotes/origin/master^{commit} # timeout=10
+ > git rev-parse refs/remotes/origin/origin/master^{commit} # timeout=10
+Checking out Revision c8ab89e1ae32ff30c2c866725f2fc053d82aba57 (refs/remotes/origin/master)
+ > git config core.sparsecheckout # timeout=10
+ > git checkout -f c8ab89e1ae32ff30c2c866725f2fc053d82aba57
+Commit message: "sa"
+ > git rev-list --no-walk c480453d3bf2b72618c6e7b715d4daa686fc6db4 # timeout=10

@@ -1,0 +1,3 @@
+[project] Running shell script
++ mvn install
+/var/lib/jenkins/workspace/project@tmp/durable-64724c5d/script.sh: 2: /var/lib/jenkins/workspace/project@tmp/durable-64724c5d/script.sh: mvn: not found

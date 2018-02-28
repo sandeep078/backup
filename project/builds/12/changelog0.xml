@@ -1,0 +1,24 @@
+commit c8ab89e1ae32ff30c2c866725f2fc053d82aba57
+tree f8c1580e5047250fecb253f0b5089e0735613356
+parent c480453d3bf2b72618c6e7b715d4daa686fc6db4
+author root <root@ip-172-31-91-6.ec2.internal> 2018-02-28 17:11:31 +0000
+committer root <root@ip-172-31-91-6.ec2.internal> 2018-02-28 17:11:31 +0000
+
+    sa
+
+
+
+:100644 100644 e2b1278a2ec73707c86f42ca6f6fe4b443f7d0a7 5d9d833ae92768bba8d881abd4ed30594b4d7c3b M	.m2/repository/add/simple1/1.0-SNAPSHOT/_remote.repositories
+:100644 100644 bef2355ae87a8a4fa68fd09c2af9b5c7c627ea74 537b192c85166aa2988ddb55a436d36c11c59826 M	.m2/repository/add/simple1/1.0-SNAPSHOT/maven-metadata-local.xml
+:100644 100644 36aab9677f6b19640aab612277b4ac490a5720ad 21a9ec577b12e6c738a0eed3826b37c913c6253d M	.m2/repository/add/simple1/1.0-SNAPSHOT/simple1-1.0-SNAPSHOT.jar
+:100644 100644 4d63b319331c33cf25674dee22447af5c4efdf0a b1203205dc7a8e3f18b75ae32e4234f9c0c6c2fd M	.m2/repository/add/simple1/maven-metadata-local.xml
+:100644 100644 e355ad5baf4db1ac2d41dd798107f56e236314ed 7772c93a7a866e3635880338853f99dbfefee60c M	.m2/repository/new/simple/1.0-SNAPSHOT/_remote.repositories
+:100644 100644 86844971f6336b38703cd8724950c0b9e3138a38 31bba21c04056f01d1482c54826983e0d237d723 M	.m2/repository/new/simple/1.0-SNAPSHOT/maven-metadata-local.xml
+:100644 100644 4ae7913685fcb1531a45cda999526e5b6eb39b2b 0825f0434117e8c5197fa05dc0ca67eb9c4b196b M	.m2/repository/new/simple/maven-metadata-local.xml
+:100644 100644 2c9bca6b9e98b3b5d2af28702ffd110ff983a1bf 674f24184fc06cf639c9224d0e23e7dba968f7f5 M	.m2/repository/sub/simple2/1.0-SNAPSHOT/_remote.repositories
+:100644 100644 e344ebffaf01e88afda8fa5bd583a50fe84a0998 6c117ae506c0dfba10e801b75c517a9b17f945a0 M	.m2/repository/sub/simple2/1.0-SNAPSHOT/maven-metadata-local.xml
+:100644 100644 38f29543785d0429e64268f686482b77dea9e755 3cb9ee55bd132dca82cb92086576f54569b15743 M	.m2/repository/sub/simple2/1.0-SNAPSHOT/simple2-1.0-SNAPSHOT.jar
+:100644 100644 84dea36cc477eda19400bf3ebfd301e9dc2ace52 e4e8fa50782f79d9ae01fcab20a659cb59111833 M	.m2/repository/sub/simple2/maven-metadata-local.xml
+:100644 100644 a470eb9002e449e7e9692119e0906f5102f2eda7 da90911d61942794b32e90761d657d511c15e6fc M	.oracle_jre_usage/9e360713136aba0a.timestamp
+:000000 100644 0000000000000000000000000000000000000000 88489050e8e0bdd0aaf9a4deb3c792f54f62f4c2 A	.viminfo
+:000000 100644 0000000000000000000000000000000000000000 a004e7ca855cee208a30d7852532756fa82afafc A	Jenkinsfile

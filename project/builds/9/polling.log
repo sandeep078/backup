@@ -1,0 +1,11 @@
+Started on Feb 28, 2018 4:59:07 PM
+Started by event from 192.30.252.36 ⇒ http://52.87.227.36:8080/github-webhook/ on Wed Feb 28 16:59:07 UTC 2018
+Using strategy: Default
+[poll] Last Built Revision: Revision 10131bd0d1e8b41ba0ce30df9af81616ec100e63 (refs/remotes/origin/master)
+ > git --version # timeout=10
+using GIT_ASKPASS to set credentials 
+ > git ls-remote -h https://github.com/sandeep078/jenkins-server.git # timeout=10
+Found 1 remote heads on https://github.com/sandeep078/jenkins-server.git
+[poll] Latest remote head revision on refs/heads/master is: 09c7aed4e036b43ac119561978533fd0c643f399
+Done. Took 0.33 sec
+Changes found
